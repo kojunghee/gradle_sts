@@ -74,7 +74,7 @@ apply plugin: 'org.sonarqube'
 
 sonarqube {
   properties {
-    property "sonar.projectName", "spring_gradle"
-    property "sonar.projectKey", "org.sonarqube:spring_gradle"
+    property "sonar.projectName", "gradle_sts"
+    property "sonar.projectKey", "org.sonarqube:gradle_sts"
   }
 }
